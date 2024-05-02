@@ -1,0 +1,60 @@
+#headerwapper{
+    max-width:1536px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #F9F9FB;
+    width: 100%;
+}
+
+#headerwapper{
+    width:1536px;
+    margin: 0 auto;
+}
+
+#section1{
+    width: 1536px;
+    margin: 0 auto;
+}
+
+#imagenesbanderas{
+    display: flex
+}
+
+#imagenesbanderas img{
+    width: 44px;
+    margin-right: 10px;
+    height: 23px;
+}
+
+#div2menu{
+    display: flex;
+}
+
+#div2menu li{
+    padding-right: 10px;
+}
+
+#div2menu a{
+    text-decoration: none;
+    color: rgb(120, 120, 120);
+}
+
+.bi-globe-americas{
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.section1fondo{
+    background-color: #C2CBCD;
+}
+
+.section2fondo{
+    background-color: #CFB594;
+}
+
+.classnav{
+    display: flex;
+    justify-content: space-between;
+}
