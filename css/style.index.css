@@ -1,3 +1,108 @@
-.bg-body-tertiary{
-    background-color: black;
+header{
+    background-color: #F8F8FB;
+}
+
+.containerheader{
+    max-width: 1519px;
+    margin: 0 auto;
+}
+
+.containerprincipalfondo{
+    background-image: linear-gradient(to bottom, #c63637, #4d82be);
+}
+
+.containerprincipalfondo1{
+    background-image: linear-gradient(to bottom,#4d82be, #84B6F4);
+}
+
+.containerprincipalfondo3{
+    background-image: linear-gradient(to bottom,#84B6F4, #5C1272);
+}
+
+.containerprincipalfondo4{
+    background-image: linear-gradient(to bottom, #5C1272, #c63637);
+}
+
+.containerprincipalfondo5{
+    background-image: linear-gradient(to bottom, #c63637, #1b1b1b);
+}
+
+.containerprincipal{
+    max-width: 1519px;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom, #c63637, #4d82be);
+    padding-bottom: 14px;
+}
+
+.containerprincipal1{
+    max-width: 1519px;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom,#4d82be, #84B6F4);
+    padding-bottom: 14px;
+}
+
+.containerprincipal2{
+    max-width: 1519px;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom,#84B6F4, #5C1272);
+    padding-bottom: 14px;
+}
+
+.containerprincipal4{
+    max-width: 1519px;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom, #5C1272, #c63637);
+    padding-bottom: 14px;
+}
+
+.containerprincipal5{
+    max-width: 1519px;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom, #c63637, #1b1b1b);
+    padding-bottom: 14px;
+}
+
+.cuadrado{
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+    align-items: center;
+}
+
+.videomario{
+    text-align: center;
+}
+
+.videomario a{
+    background-color: #c63637;
+    border-radius: 10px;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.youtubevideo{
+    height: 370px;
+    margin: 0 auto;
+    width: 60%;
+    display: table-cell;
+    margin-bottom: 10px;
+    border-radius: 40px;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+}
+
+.cuadradodentro{
+    width: 734px;
+}
+
+.cuadradodentro p{
+    color: white;
+}
+
+.cuadrado img{
+    width: 185px;
+    margin: 12px;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
 }
