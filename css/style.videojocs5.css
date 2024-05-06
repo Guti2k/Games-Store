@@ -64,7 +64,7 @@ header{
 
 .cuadrado{
     display: flex;
-    width: 76%;
+    width: 74%;
     max-width: 1519px;
     margin: 0 auto;
     align-items: center;
@@ -106,7 +106,6 @@ header{
 
 .cuadradodentro{
     width: 88%;
-    margin: 0 auto;
 }
 
 .cuadradodentro p{
@@ -159,7 +158,7 @@ header{
 
 #fondo1{
     display: flex;
-    background: black   ;
+    background-image: linear-gradient(to bottom,#4d82be, #84B6F4);
     justify-content: space-between;
     padding: 16px;
 }

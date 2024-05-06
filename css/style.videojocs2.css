@@ -64,7 +64,7 @@ header{
 
 .cuadrado{
     display: flex;
-    width: 76%;
+    width: 74%;
     max-width: 1519px;
     margin: 0 auto;
     align-items: center;

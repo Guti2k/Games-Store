@@ -64,7 +64,7 @@ header{
 
 .cuadrado{
     display: flex;
-    width: 76%;
+    width: 74%;
     max-width: 1519px;
     margin: 0 auto;
     align-items: center;
@@ -125,7 +125,7 @@ header{
 #cuadrado{
     border: 1px solid rgba(0, 0, 0, 0.5);
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
-    width: 82%;
+    width: 63%;
     margin: 0 auto;
 }
 
@@ -225,4 +225,9 @@ header{
     padding: 10px;
 }
 
+
+.supermariocaratula2 img{
+    width: 350px;
+    height: 507px;
+}
 
