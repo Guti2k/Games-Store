@@ -2,6 +2,29 @@ header{
     background-color: #F8F8FB;
 }
 
+
+table {
+    border-collapse: collapse;
+    width: 73%;
+    margin: 0 auto;
+}
+
+table img{
+    width: 43%;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
 .containerheader{
     max-width: 1519px;
     margin: 0 auto;
